@@ -1,3 +1,11 @@
+
+![3](https://github.com/iSIX0NE/MSTest/assets/137790126/a62deb28-9be7-4386-9e38-f626422d58e6)
+
+
+
+
+
+
 # Микросервисы с Keycloak и Spring Security
 
 Задание базировано и дополнено на основе видео: https://www.youtube.com/watch?v=YHWfJHKGYGI
